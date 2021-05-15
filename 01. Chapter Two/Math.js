@@ -1,0 +1,10 @@
+console.log(Math.PI)
+console.log(Math.E)
+console.log(Math.floor(1.6))
+console.log(Math.ceil(1.6))
+console.log(Math.round(5.2))
+console.log(Math.max(10,5,2,5,24))
+console.log(Math.min(10,5,2,1))
+console.log(Math.sqrt(5,2))
+console.log(Math.round(Math.random()*10+1))
+
