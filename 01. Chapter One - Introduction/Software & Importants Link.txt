@@ -1,0 +1,7 @@
+Download NodeJS: https://nodejs.org/en/
+
+Download Visual Studio Code: https://code.visualstudio.com/
+
+Download CMDER Terminal: https://cmder.net/
+
+Download Git and Git Bash: https://git-scm.com/
