@@ -1,0 +1,1 @@
+Inherite another object or class property is called inheritance.

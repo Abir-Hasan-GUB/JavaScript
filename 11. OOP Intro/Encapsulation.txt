@@ -1,0 +1,2 @@
+If dada & object bind in a vartual capsule, it is
+called encapsulating.

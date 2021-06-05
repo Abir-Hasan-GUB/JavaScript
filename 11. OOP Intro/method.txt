@@ -1,0 +1,7 @@
+method means a function.
+
+Normally, if a function is associated with a object
+that's called method in JS.
+
+It can storeable in a variable.
+For call a method need the object name + ('.') + method name

@@ -1,0 +1,2 @@
+'Class' is an special function which is used to
+create huge object without code duplication

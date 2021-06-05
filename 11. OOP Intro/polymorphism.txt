@@ -1,0 +1,1 @@
+Same method use to the varios oparation is called polymorphism.
